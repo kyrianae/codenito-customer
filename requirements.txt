@@ -2,3 +2,6 @@ flask
 gunicorn
 datetime
 logging
+pymongo
+requests
+python-dotenv
